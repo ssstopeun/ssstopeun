@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning Backend, Java, SQL in Chungnam SW Academy.
 -  ❤ I like to Collaborate together to complete a project.
 
-<hr style="height:2px;border-width:1;border-radius: 5px;color:#F08080;background-color:#F08080">
+<hr style="height:2px;border-width:1;border-radius: 5px;color:#F08080;background-color:#8080ff">
