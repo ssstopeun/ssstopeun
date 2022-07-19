@@ -31,8 +31,8 @@
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
 ### 📊 My Stats
-![ssstopeun's github stats](https://github-readme-stats.vercel.app/api?username=ssstopeun&show_icons=true&theme=buefy)
 [![ssstopeun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ssstopeun&show_icons=true&title_color=F08080&icon_color=F08080&layout=compact&thmem=buefy)](https://github.com/ssstopeun)
+![ssstopeun's github stats](https://github-readme-stats.vercel.app/api?username=ssstopeun&show_icons=true&theme=buefy)
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
