@@ -1,4 +1,3 @@
-<div align="center">
 
 ### 👋 Hi, I’m Jieun Jeong.  
 💻 My major is Computer Science and Engineering.  
@@ -29,9 +28,15 @@
 </p>
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
-
+  
+### :balloon: My Activity
+- Certificated CNU SW Academy 1st </a> __(2022.07 ~ 2022.12)__
+- <a href = https://github.com/sonamu-project/SonamuProjectWeb> Develop Korean program Language (Sonamu) pre-process </a> __(2022.03 ~ ing)__
+- <a href = https://github.com/ssstopeun/REST_API_Project> Coffee ordering service web page with Clone-Coding</a> __(2021.9 ~ ing)__
+  
+<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
+  
 ### 📊 My Stats
-[![ssstopeun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ssstopeun&show_icons=true&title_color=F08080&icon_color=F08080&layout=compact&thmem=buefy)](https://github.com/ssstopeun)
 ![ssstopeun's github stats](https://github-readme-stats.vercel.app/api?username=ssstopeun&show_icons=true&theme=buefy)
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
