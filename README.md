@@ -30,6 +30,7 @@
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
   
 ### :balloon: My Activity
+- Certificated NHN Academy 5st </a> __(2024.01.02 ~ ing)__
 - Certificated CNU SW Academy 1st </a> __(2022.07 ~ 2022.12)__
 - <a href = https://github.com/sonamu-project/SonamuProjectWeb> Develop Korean program Language (Sonamu) pre-process </a> __(2022.03 ~ 12)__
 - <a href = https://github.com/ssstopeun/REST_API_Project> Coffee ordering service web page with Clone-Coding</a> __(2021.9)__
