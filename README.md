@@ -2,8 +2,8 @@
 ### 👋 Hi, I’m Jieun Jeong.  
 💻 My major is Computer Science and Engineering.  
 👀 I’m interested in Backend, development programming languages.  
-🔧 I have project experience using Python, Java, HTML, CSS, JavaScript etc.  
-🌱 I’m currently learning Backend, Java, SQL in Chungnam SW Academy.  
+🔧 I have project experience using Java, HTML, CSS, JavaScript, Spring etc.  
+🌱 I’m currently developing my personal Backend capabilites while helping students as a TA at nhn Academy in Daejeon.
 ❤ I like to Collaborate together to complete a project.  
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#F08080;background-color:#8080ff">
