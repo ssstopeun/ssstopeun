@@ -31,12 +31,12 @@
   
 ### :balloon: My Activity
 - __(2024.06.17 ~ ing)__ : NHN Academy TA </a> 
-- __(2024.03 ~ 05)__ : <a href = https://github.com/nhnacademy-be5-t2m>Book Store Team Project </a> 
-- __(2024.01.02 ~ 05.17)__ : Certificated NHN Academy 5st 
+- __(2024.03 ~ 2024.05)__ : <a href = https://github.com/nhnacademy-be5-t2m>Book Store Team Project </a> 
+- __(2024.01 ~ 2024.05)__ : Certificated NHN Academy 5st 
 - __(2023.04 ~ 2023.12)__ : <a href = https://github.com/2023-java-study> Java Study  </a> 
 - __(2022.07 ~ 2022.12)__ : Certificated CNU SW Academy 1st 
-- __(2022.03 ~ 12)__ : <a href = https://github.com/sonamu-project/SonamuProjectWeb> Develop Korean program Language (Sonamu) pre-process </a> 
-- __(2021.9)__ : <a href = https://github.com/ssstopeun/REST_API_Project> Coffee ordering service web page with Clone-Coding</a> 
+- __(2022.03 ~ 2022.12)__ : <a href = https://github.com/sonamu-project/SonamuProjectWeb> Develop Korean program Language (Sonamu) pre-process </a> 
+- __(2021.09 ~ 2021.10)__ : <a href = https://github.com/ssstopeun/REST_API_Project> Coffee ordering service web page with Clone-Coding</a> 
   
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
   
